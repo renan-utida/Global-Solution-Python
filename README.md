@@ -8,6 +8,9 @@ Clean Ocean - Protegendo nossas águas, preservando nosso futuro.
 Renan Dias Utida - RM 558540
 Gustavo Melanda da Nova - RM 556081
 
+**Link Youtube** : https://www.youtube.com/watch?v=iQ_EPYxoBi8
+
+**Link Repositorio** : 
 
 # Descrição do Projeto
 
